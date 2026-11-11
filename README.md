@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/gvisor](https://github.com/google/gvisor).** Application Kernel for Containers.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/gvisor).
+>
+> The upstream README follows unchanged.
+
+---
+
 ![gVisor](g3doc/logo.png)
 
 [![Build status](https://badge.buildkite.com/3b159f20b9830461a71112566c4171c0bdfd2f980a8e4c0ae6.svg?branch=master)](https://buildkite.com/gvisor/pipeline)
